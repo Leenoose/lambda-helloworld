@@ -1,25 +1,12 @@
-# Use the official .NET SDK image to build the application
-FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
-WORKDIR /src
+# You can also pull these images from DockerHub amazon/aws-lambda-dotnet:8
+FROM mcr.microsoft.com/dotnet/runtime:8.0
 
-# Copy the project file and restore dependencies
-COPY ["AWSLambdaHelloWorld/AWSLambdaHelloWorld.csproj", "AWSLambdaHelloWorld/"]
-RUN dotnet restore "AWSLambdaHelloWorld/AWSLambdaHelloWorld.csproj"
+# Set the image's internal work directory
+WORKDIR /var/task
 
-# Copy the rest of the application code
-COPY ["AWSLambdaHelloWorld/", "AWSLambdaHelloWorld/"]
+# Copy function code to Lambda-defined environment variable
+COPY "bin/Release/net8.0/linux-x64"  .
 
-# Build and publish the application
-WORKDIR "/src/AWSLambdaHelloWorld"
-RUN dotnet publish "AWSLambdaHelloWorld.csproj" -c Release -o /app/publish
+# Set the entrypoint to the bootstrap
+ENTRYPOINT ["/usr/bin/dotnet", "exec", "AWSLambda1::AWSLambda1.Function::FunctionHandler"]
 
-# Use the official ASP.NET Core runtime image
-FROM mcr.microsoft.com/dotnet/aspnet:8.0
-WORKDIR /app
-COPY --from=build /app/publish .
-
-# Expose port 80 to the outside world
-EXPOSE 80
-
-# Set the entry point to the application
-ENTRYPOINT ["dotnet", "AWSLambdaHelloWorld.dll"]
