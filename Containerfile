@@ -2,7 +2,7 @@
 FROM public.ecr.aws/lambda/dotnet:8
 
 # Copy function code to Lambda-defined environment variable
-COPY publish/* ${LAMBDA_TASK_ROOT}
+COPY . ${LAMBDA_TASK_ROOT}
 
 # Set the entrypoint to the bootstrap
 CMD [ "AWSLambda1::AWSLambda1.Function::FunctionHandler" ]
