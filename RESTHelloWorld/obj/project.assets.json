@@ -521,11 +521,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Work\\Repository\\RESTHelloWorld\\RESTHelloWorld.csproj",
+      "projectUniqueName": "D:\\Work\\Repository\\lambda-helloworld\\RESTHelloWorld\\RESTHelloWorld.csproj",
       "projectName": "RESTHelloWorld",
-      "projectPath": "D:\\Work\\Repository\\RESTHelloWorld\\RESTHelloWorld.csproj",
+      "projectPath": "D:\\Work\\Repository\\lambda-helloworld\\RESTHelloWorld\\RESTHelloWorld.csproj",
       "packagesPath": "C:\\Users\\Linus\\.nuget\\packages\\",
-      "outputPath": "D:\\Work\\Repository\\RESTHelloWorld\\obj\\",
+      "outputPath": "D:\\Work\\Repository\\lambda-helloworld\\RESTHelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Linus\\AppData\\Roaming\\NuGet\\NuGet.Config",
