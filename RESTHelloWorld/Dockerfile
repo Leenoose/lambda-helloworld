@@ -22,4 +22,8 @@ RUN dotnet publish "./RESTHelloWorld.csproj" -c $BUILD_CONFIGURATION -o /app/pub
 FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
+
+EXPOSE 8080
+EXPOSE 8081
+
 ENTRYPOINT ["dotnet", "RESTHelloWorld.dll"]
