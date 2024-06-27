@@ -26,4 +26,4 @@ COPY --from=publish /app/publish .
 EXPOSE 8080
 EXPOSE 8081
 
-ENTRYPOINT ["dotnet", "RESTHelloWorld.dll"]
+RUN dotnet run 
