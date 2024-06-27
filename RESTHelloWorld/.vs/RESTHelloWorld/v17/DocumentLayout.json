@@ -1,30 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Work\\Repository\\RESTHelloWorld\\",
+  "WorkspaceRootPath": "D:\\Work\\Repository\\lambda-helloworld\\RESTHelloWorld\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{12ED8E54-9842-4FDC-AA5E-F9B4E55C573E}|RESTHelloWorld.csproj|d:\\work\\repository\\resthelloworld\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12ED8E54-9842-4FDC-AA5E-F9B4E55C573E}|RESTHelloWorld.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12ED8E54-9842-4FDC-AA5E-F9B4E55C573E}|RESTHelloWorld.csproj|d:\\work\\repository\\lambda-helloworld\\resthelloworld\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{12ED8E54-9842-4FDC-AA5E-F9B4E55C573E}|RESTHelloWorld.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12ED8E54-9842-4FDC-AA5E-F9B4E55C573E}|RESTHelloWorld.csproj|d:\\work\\repository\\resthelloworld\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{12ED8E54-9842-4FDC-AA5E-F9B4E55C573E}|RESTHelloWorld.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12ED8E54-9842-4FDC-AA5E-F9B4E55C573E}|RESTHelloWorld.csproj|d:\\work\\repository\\resthelloworld\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{12ED8E54-9842-4FDC-AA5E-F9B4E55C573E}|RESTHelloWorld.csproj|d:\\work\\repository\\lambda-helloworld\\resthelloworld\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{12ED8E54-9842-4FDC-AA5E-F9B4E55C573E}|RESTHelloWorld.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12ED8E54-9842-4FDC-AA5E-F9B4E55C573E}|RESTHelloWorld.csproj|d:\\work\\repository\\resthelloworld\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{12ED8E54-9842-4FDC-AA5E-F9B4E55C573E}|RESTHelloWorld.csproj|d:\\work\\repository\\lambda-helloworld\\resthelloworld\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{12ED8E54-9842-4FDC-AA5E-F9B4E55C573E}|RESTHelloWorld.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12ED8E54-9842-4FDC-AA5E-F9B4E55C573E}|RESTHelloWorld.csproj|d:\\work\\repository\\lambda-helloworld\\resthelloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12ED8E54-9842-4FDC-AA5E-F9B4E55C573E}|RESTHelloWorld.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12ED8E54-9842-4FDC-AA5E-F9B4E55C573E}|RESTHelloWorld.csproj|d:\\work\\repository\\lambda-helloworld\\resthelloworld\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12ED8E54-9842-4FDC-AA5E-F9B4E55C573E}|RESTHelloWorld.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12ED8E54-9842-4FDC-AA5E-F9B4E55C573E}|RESTHelloWorld.csproj|d:\\work\\repository\\lambda-helloworld\\resthelloworld\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{12ED8E54-9842-4FDC-AA5E-F9B4E55C573E}|RESTHelloWorld.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12ED8E54-9842-4FDC-AA5E-F9B4E55C573E}|RESTHelloWorld.csproj|d:\\work\\repository\\resthelloworld\\resthelloworld.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{12ED8E54-9842-4FDC-AA5E-F9B4E55C573E}|RESTHelloWorld.csproj|d:\\work\\repository\\lambda-helloworld\\resthelloworld\\resthelloworld.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{12ED8E54-9842-4FDC-AA5E-F9B4E55C573E}|RESTHelloWorld.csproj|solutionrelative:resthelloworld.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12ED8E54-9842-4FDC-AA5E-F9B4E55C573E}|RESTHelloWorld.csproj|d:\\work\\repository\\resthelloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12ED8E54-9842-4FDC-AA5E-F9B4E55C573E}|RESTHelloWorld.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,66 +38,77 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Work\\Repository\\lambda-helloworld\\RESTHelloWorld\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Work\\Repository\\lambda-helloworld\\RESTHelloWorld\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-27T07:36:53.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Dockerfile",
-              "DocumentMoniker": "D:\\Work\\Repository\\RESTHelloWorld\\Dockerfile",
+              "DocumentMoniker": "D:\\Work\\Repository\\lambda-helloworld\\RESTHelloWorld\\Dockerfile",
               "RelativeDocumentMoniker": "Dockerfile",
-              "ToolTip": "D:\\Work\\Repository\\RESTHelloWorld\\Dockerfile",
+              "ToolTip": "D:\\Work\\Repository\\lambda-helloworld\\RESTHelloWorld\\Dockerfile",
               "RelativeToolTip": "Dockerfile",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAArAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAswAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-06-26T09:26:26.955Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Work\\Repository\\RESTHelloWorld\\appsettings.json",
+              "DocumentMoniker": "D:\\Work\\Repository\\lambda-helloworld\\RESTHelloWorld\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\Work\\Repository\\RESTHelloWorld\\appsettings.json",
+              "ToolTip": "D:\\Work\\Repository\\lambda-helloworld\\RESTHelloWorld\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-06-26T09:25:14.923Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\Work\\Repository\\RESTHelloWorld\\appsettings.Development.json",
+              "DocumentMoniker": "D:\\Work\\Repository\\lambda-helloworld\\RESTHelloWorld\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "D:\\Work\\Repository\\RESTHelloWorld\\appsettings.Development.json",
+              "ToolTip": "D:\\Work\\Repository\\lambda-helloworld\\RESTHelloWorld\\appsettings.Development.json",
               "RelativeToolTip": "appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-26T09:25:22.897Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-26T09:25:22.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RESTHelloWorld",
+              "DocumentMoniker": "D:\\Work\\Repository\\lambda-helloworld\\RESTHelloWorld\\RESTHelloWorld.csproj",
+              "RelativeDocumentMoniker": "RESTHelloWorld.csproj",
+              "ToolTip": "D:\\Work\\Repository\\lambda-helloworld\\RESTHelloWorld\\RESTHelloWorld.csproj",
+              "RelativeToolTip": "RESTHelloWorld.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-26T09:24:01.415Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "RESTHelloWorld",
-              "DocumentMoniker": "D:\\Work\\Repository\\RESTHelloWorld\\RESTHelloWorld.csproj",
-              "RelativeDocumentMoniker": "RESTHelloWorld.csproj",
-              "ToolTip": "D:\\Work\\Repository\\RESTHelloWorld\\RESTHelloWorld.csproj",
-              "RelativeToolTip": "RESTHelloWorld.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-26T09:24:01.415Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Work\\Repository\\RESTHelloWorld\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "D:\\Work\\Repository\\lambda-helloworld\\RESTHelloWorld\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Work\\Repository\\RESTHelloWorld\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Work\\Repository\\lambda-helloworld\\RESTHelloWorld\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -102,11 +117,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Work\\Repository\\RESTHelloWorld\\Program.cs",
+              "DocumentMoniker": "D:\\Work\\Repository\\lambda-helloworld\\RESTHelloWorld\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Work\\Repository\\RESTHelloWorld\\Program.cs",
+              "ToolTip": "D:\\Work\\Repository\\lambda-helloworld\\RESTHelloWorld\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
